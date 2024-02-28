@@ -4,6 +4,7 @@ import os
 import subprocess
 
 
+
 def cprint(*args, level: int = 1):
     """
     logs colorful messages
